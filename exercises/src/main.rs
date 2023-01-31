@@ -1,3 +1,8 @@
+/*
+    TODO: company_directory() needs to be done, don't know enough yet.
+    TODO: find_array_info(), I can't find mode with current knowledge, according to the Internet rustaceans.
+*/
+
 fn main() {
     let arr: [i32; 50] = [1,50,50,5,42,27,47,18,33,13,2,2,21,10,32,41,2,35,45,20,9,4,12,5,18,31,47,46,28,46,40,23,39,13,15,13,45,27,36,31,15,14,32,34,7,23,37,7,27,25];
     find_array_info(&arr);
